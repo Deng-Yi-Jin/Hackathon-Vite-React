@@ -1,11 +1,11 @@
 # React + Vite
 
 # About this project
-This is the most simplest website build because it's done by last minute,
-so don't expect much from this.
+This is a simple website build without any web building experience and it is done in a short time.
+So The Webite is simple but it still works.
 
 P.S.
-This is my first time building a website also
+This is my first time building a website.
 
 # Tool's that I use in this project
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
