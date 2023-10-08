@@ -1,0 +1,7 @@
+.buttonClose {
+	background-size: cover;
+	position: relative;
+	right: -550px;
+	bottom: -10px;
+	background-repeat: no-repeat;
+}

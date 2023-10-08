@@ -1,0 +1,9 @@
+.buttonSub {
+	position: fixed;
+	background-size: cover;
+	position: relative;
+	right: -790px;
+	bottom: -10px;
+	background-repeat: no-repeat;
+	background-color: rgb(81, 176, 144);
+}

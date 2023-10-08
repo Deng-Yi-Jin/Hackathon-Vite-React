@@ -1,0 +1,57 @@
+.App {
+	width: 100vw;
+	height: 100vh;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.Intra {
+	position: relative;
+	top: -98px;
+	width: 99%;
+}
+
+.Agenda {
+	position: relative;
+	top: -110px;
+	width: 99%;
+}
+
+.Achivement {
+	position: relative;
+	top: -128px;
+	width: 99%;
+}
+
+.List_project {
+	position: relative;
+	top: -98px;
+	width: 99%;
+}
+
+.Videos {
+	position: relative;
+	top: -98px;
+	width: 99%;
+}
+
+.Jobs {
+	position: relative;
+	top: -98px;
+	width: 99%;
+}
+
+.Discover {
+	position: relative;
+	top: -98px;
+	width: 99%;
+}
+
+.Store {
+	position: relative;
+	top: -98px;
+	width: 99%;
+}
